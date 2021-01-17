@@ -6,9 +6,9 @@ Repository containing portfolio of data science projects completed by me for TEC
 
 # Contents
 # * Machine Learning
-  * [Linear regression project-Tech is](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Linear%20regression%20project-Tech%20is.ipynb):
-  * [Portuguese Bank Marketing Data Analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20Assignment%20Portuguese%20Bank%20Marketing%20Data%20Analysis.ipynb):
-  * [Tech I.S KNN & NB Project- Biomechanical Features of Orthopedic Patients](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20KNN%20%26%20NB%20Project-%20Biomechanical%20Features%20of%20Orthopedic%20Patients.ipynb):
+    * [Linear regression project-Tech is](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Linear%20regression%20project-Tech%20is.ipynb):
+    * [Portuguese Bank Marketing Data Analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20Assignment%20Portuguese%20Bank%20Marketing%20Data%20Analysis.ipynb):
+    * [Tech I.S KNN & NB Project- Biomechanical Features of Orthopedic Patients](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20KNN%20%26%20NB%20Project-%20Biomechanical%20Features%20of%20Orthopedic%20Patients.ipynb):
 
 Tools: scikit-learn, Pandas, NumPy, Seaborn, Matplotlib
 
