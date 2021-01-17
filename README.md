@@ -1,1 +1,1 @@
-Website Address: [cinta-mariya.github.io](https://cintajain.github.io/cinta-mariya.github.io/)
+Website Address: [cinta.github.io](https://cintajain.github.io/cinta.github.io/)
