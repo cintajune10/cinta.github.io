@@ -14,4 +14,6 @@ Tools: scikit-learn, Pandas, NumPy, Seaborn, Matplotlib
 
 * Data Analysis and Visualisation
 
+Tools: Pandas, Folium, Seaborn and Matplotlib
+
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at cintamariya@gmail.com
