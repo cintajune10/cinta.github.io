@@ -1,3 +1,3 @@
-# cinta.github.io
+# Cinta.github.io
 
 Hi This is cinta
