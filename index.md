@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Seoul%20bike%20data%20analysis%20using%20linear%20regression.ipynb)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/Seoul bike analysis.jpg?raw=true"/>
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -21,8 +21,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - Used logistic regression to build a model for predicting customer churn.
 - The dataset include information about customer account information, gender, age range and also customers who have left the company within the last month.
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Used Logistic regression classifier & predicted the accuracy
+- Explored a machine learning approach to customer churn prediction.
 
 ***
 
