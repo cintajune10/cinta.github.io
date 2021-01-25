@@ -34,3 +34,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Student performance analsysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Students%20Performance%20Analysis.ipynb)
+
+<img src="images/Student analysis.jpg?raw=true"/>
