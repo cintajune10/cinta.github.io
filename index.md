@@ -19,8 +19,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Portuguese Bank Analysis.jpg?raw=true"/>
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
+- Used logistic regression to build a model for predicting customer churn.
+- The dataset include information about customer account information, gender, age range and also customers who have left the company within the last month.
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
 
