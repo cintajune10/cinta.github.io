@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed by me for TEC
 
 # Contents
 * Machine Learning
-   * [Number Of Bikes Rented in the city of Seoul](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Linear%20regression%20project-Tech%20is.ipynb): In this project we have used Linear Regression to predict the number of bikes rented in the city of Seoul.
+   * [Number Of Bikes Rented in the city of Seoul](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Seoul%20bike%20data%20analysis%20using%20linear%20regression.ipynb): In this project we have used Linear Regression to predict the number of bikes rented in the city of Seoul.
    * [Portuguese Bank Marketing Data Analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20Assignment%20Portuguese%20Bank%20Marketing%20Data%20Analysis.ipynb): This project is about the direct phone call marketing campaigns, which aims to promote term deposits among existing customers, by a Portuguese banking institution from May 2008 to November 2010. 
    * [Biomechanical Features of Orthopedic Patients](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20KNN%20%26%20NB%20Project-%20Biomechanical%20Features%20of%20Orthopedic%20Patients.ipynb): In this project we are provided with multiple instances of orthopedic parameters with their classification as Normal or Abnormal.
    * [Employee compensation using K-means clustering](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Employee%20compensation%20using%20K-means%20clustering.ipynb): The San Francisco controllers office maintains a database of the salary and benefits paid to city empoloyees between fiscal year 2013 to 2017. Our target is to predict the salary.
