@@ -44,3 +44,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Using EDA algorith analyse the marks scored by the students in college.
 - To understand the influcense of various factors like economic, personal and social on the students performance.
 - To predict the major factors influencing the test scores and to improve students performance in eact test.
+
+***
+
+[Employee compensation](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Employee%20compensation%20using%20K-means%20clustering.ipynb)
+
+<img src="images/employee compensation analysis.jpg?raw=true"/>
+
+- Using EDA algorith analyse the marks scored by the students in college.
+- To understand the influcense of various factors like economic, personal and social on the students performance.
+- To predict the major factors influencing the test scores and to improve students performance in eact test.
