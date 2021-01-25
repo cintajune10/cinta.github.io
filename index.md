@@ -27,7 +27,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Biomechanical%20Features%20of%20Orthopedic%20Patient%20Analysis%20using%20KNN%20%26%20NB.ipynb)
 
 <img src="images/Orthopedic analysis.jpg?raw=true"/>
 
