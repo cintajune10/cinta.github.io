@@ -40,3 +40,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Student performance analsysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Students%20Performance%20Analysis.ipynb)
 
 <img src="images/Student analysis.jpg?raw=true"/>
+
+- Using EDA algorith analyse the marks scored by the students in college.
+- To understand the influcense of various factors like economic, personal and social on the students performance.
+- To predict the major factors influencing the test scores and to improve students performance in eact test.
