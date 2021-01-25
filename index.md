@@ -56,9 +56,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Fake news detection]()
+[Fake news detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/%20Fake%20news%20Detection.ipynb)
 
 <img src="images/fake news analysis.jpg?raw=true"/>
 
-- K-means clustering is used to predict the salary of the employees.
-- The dataset is hosted by the city of San Francisco and is updated anually.
+- NLP techniques are used to create a model which predicts whether a given news is real or fake.
