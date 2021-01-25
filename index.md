@@ -23,12 +23,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - The dataset include information about customer account information, gender, age range and also customers who have left the company within the last month.
 - Used Logistic regression classifier & predicted the accuracy
 - Explored a machine learning approach to customer churn prediction.
+- The classification goal is to predict if the client will subscribe a term deposit.
 
 ***
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/Orthopedic analysis.jpg?raw=true"/>
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
