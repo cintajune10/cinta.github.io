@@ -41,7 +41,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Student analysis.jpg?raw=true"/>
 
-- Using EDA algorith analyse the marks scored by the students in college.
+- Using EDA algorithm analyse the marks scored by the students in college.
 - To understand the influcense of various factors like economic, personal and social on the students performance.
 - To predict the major factors influencing the test scores and to improve students performance in eact test.
 
@@ -50,6 +50,15 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Employee compensation](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Employee%20compensation%20using%20K-means%20clustering.ipynb)
 
 <img src="images/employee compensation analysis.jpg?raw=true"/>
+
+- K-means clustering is used to predict the salary of the employees.
+- The dataset is hosted by the city of San Francisco and is updated anually.
+
+***
+
+[Fake news detection]()
+
+<img src="images/fake news analysis.jpg?raw=true"/>
 
 - K-means clustering is used to predict the salary of the employees.
 - The dataset is hosted by the city of San Francisco and is updated anually.
