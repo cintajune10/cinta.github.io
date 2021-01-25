@@ -56,7 +56,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Fake news detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/%20Fake%20news%20Detection.ipynb)
+[Fake news detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Fake%20news.ipynb)
 
 <img src="images/fake news analysis.jpg?raw=true"/>
 
