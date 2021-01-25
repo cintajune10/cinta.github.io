@@ -15,7 +15,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Portuguese Bank Marketing Data Analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Tech%20I.S%20Assignment%20Portuguese%20Bank%20Marketing%20Data%20Analysis.ipynb)
+[Portuguese Bank Marketing Data Analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/%20Portuguese%20Bank%20Marketing%20Data%20Analysis.ipynb)
 
 <img src="images/Portuguese Bank Analysis.jpg?raw=true"/>
 
