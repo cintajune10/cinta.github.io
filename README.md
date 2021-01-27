@@ -12,7 +12,7 @@ Repository containing portfolio of data science projects completed by me for TEC
    * [Employee compensation using K-means clustering](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Employee%20compensation%20using%20K-means%20clustering.ipynb): The San Francisco controllers office maintains a database of the salary and benefits paid to city empoloyees between fiscal year 2013 to 2017. Our target is to predict the salary.
    * [Students performance analysis](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Students%20Performance%20Analysis.ipynb): We have used EDA algorithm to analyse the marks obtained by students in various subjects.
    * [Fake News detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Fake%20news.ipynb): We are given two files with real news and fake news. Here we are using NLP techniques to create a model which predicts whether a given news is real or fake.
-   * [Credit card fraud detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Credit%20card%20fraud%20detection.ipynb):
+   * [Credit card fraud detection](https://github.com/cintamariyatomy/cinta.github.io/blob/main/Credit%20card%20fraud%20detection.ipynb): This project deals with a highly imbalanced credit card data set. The objective is to predict fraudulent transactions.
 
 Tools: scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, nltk
 
